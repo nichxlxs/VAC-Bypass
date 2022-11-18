@@ -1,0 +1,2 @@
+# 32-bit only. Build DLL: cargo build --release --target i686-pc-windows-msvc
+# Tests use host target by default so they run without the i686 toolchain.

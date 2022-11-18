@@ -1,0 +1,12 @@
+# Rust
+target/
+**/*.rs.bk
+# IDE / local
+.vscode/
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
