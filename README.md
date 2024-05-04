@@ -33,3 +33,4 @@ How Daniel likely reverse engineered the VAC modules from compiled 32-bit DLLs i
 - [VAC](https://github.com/danielkrupinski/VAC): reconstructed VAC module source code
 - [VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass): VAC bypass implementation  
 - License: MIT
+
